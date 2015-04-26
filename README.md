@@ -9,7 +9,12 @@ let productName = ["product", "name"];
 objectProperty(App, productName, "aguacate");
 // App.product.name === "aguacate";
 
-
 let product = objectProperty(App, productName);
 // product === "aguacate";
+```
+
+# Instalación
+
+```js
+jspm install github:lovedder/objectProperty
 ```
