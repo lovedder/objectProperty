@@ -1,0 +1,22 @@
+{
+    "name": "objectProperty",
+    "version": "0.1",
+    "description": "Asigna y obtén propiedades de objetos de JavaScript",
+    "main": "objectProperty.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lovedder/objectProperty.git"
+    },
+    "keywords": [
+        "objectProperty"
+    ],
+    "author": {
+        "name": "Edder",
+        "email": "lovedder95@gmail.com"
+    },
+    "jspm": {
+        "dependencies": {
+            "lovedder/movi": "github:lovedder/objectProperty@master"
+        }
+    }
+}
