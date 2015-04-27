@@ -13,10 +13,5 @@
     "author": {
         "name": "Edder",
         "email": "lovedder95@gmail.com"
-    },
-    "jspm": {
-        "dependencies": {
-            "lovedder/movi": "github:lovedder/objectProperty@master"
-        }
     }
 }
